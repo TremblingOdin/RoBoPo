@@ -1,0 +1,16 @@
+Initiate, Hello
+Test 2 3 4
+This is a new line 2, 3, 4
+
+
+We just skipped 2 lines
+
+An now to attempt phonetic Romanizations of non-Western languages
+
+Hana ga saita ya
+Hana ga hana ga saita yo
+Hidoku kaze ni obieta
+Daremo mita koto nai
+Hana ga saiteita yo da
+
+Ending of the attempt of non-Western languages.
