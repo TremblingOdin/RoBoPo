@@ -7,7 +7,7 @@
 #     GPIO23 (board 16)
 #     GPIO24 (board 18)
 #
-#   Written by Kayvan Ehteshami
+#   Written by 
 #   TremblingTitan
 
 import os
